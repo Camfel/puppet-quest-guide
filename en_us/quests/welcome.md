@@ -27,7 +27,7 @@ Ready to get started? Run the following command on the VM to begin the
 
 ## An introduction to the quest tool
 
-One logging in to the Learning VM, you may have noticed a colored bar at the
+Once logging in to the Learning VM, you may have noticed a colored bar at the
 bottom of the terminal window. This status bar is provided by a tool called
 [tmux](http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/). This
 status bar gives you quick access to your current *quest*, and your progress
